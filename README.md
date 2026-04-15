@@ -7,5 +7,5 @@ Computer Engineering Student @ NYU Abu Dhabi
 - Projects on Rocketry 🚀
 - Currently working on something special...
 
-#Portfolio 
+### Portfolio 
 https://reptide.github.io/portfolio/
