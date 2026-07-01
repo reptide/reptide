@@ -2,10 +2,8 @@
 
 Computer Engineering Student @ NYU Abu Dhabi
 
-## 🚀 About Me
-- From 🇰🇷
-- Projects on Rocketry 🚀
-- Currently working on something special...
+## 🚀 Currently
+- Working at KAIST SPL(Spacecraft Prototyping Lab)
 
 ### Portfolio 
 https://reptide.github.io/portfolio/
