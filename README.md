@@ -5,6 +5,7 @@ Computer Engineering @ NYU Abu Dhabi — working across the full control loop: *
 **🚀 Currently**
 - Looking for something interesting...
 - Building **StringSense**, an AI practice-coaching pickup for string instruments (analog front-end → nRF52840 → BLE), solo founder @ KAIST OVERGE
+
 **🧭 Before**: 
 - Free-space optical (FSO) communication research @ **KAIST Spacecraft Prototyping Laboratory** — closed-loop fast-steering-mirror pointing, bench SNR/BER link characterization, and [link budget modeling](https://github.com/reptide/ogs-linkbudget-live)
 - Flight avionics and recovery systems flown at Spaceport America Cup 2023; a Hold-Down-and-Release Mechanism developed with NASA-JPL engineers.
